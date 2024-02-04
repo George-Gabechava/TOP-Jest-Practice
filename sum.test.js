@@ -1,5 +1,3 @@
-/* eslint-disable no-undef */
-
 const capitalize = require('./sum');
 
 test('capitalize', () => {
